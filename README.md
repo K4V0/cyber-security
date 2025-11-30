@@ -82,7 +82,7 @@ This path provides a solid foundation for anyone looking to enter the offensive 
 
 # Special Thanks & Community Support ❤️
 
-I want to give a **huge shoutout** to the incredible **Mohammed Al-Masoud Kafi**.  
+I want to give a **huge shoutout** to the incredible **Mohammed Al-Masoud Kafi (ComputerCyberkw)**.  
 He is not just a content creator—he is a **mentor, guide, and source of inspiration** for anyone diving into offensive cybersecurity. His teaching style is clear, practical, and highly engaging, making complex topics easy to understand even for beginners.
 
 Mohammed’s YouTube channel provides **exceptional tutorials, walkthroughs, and course** that help learners progress from zero to advanced Red Team skills. His dedication to teaching and sharing knowledge has **empowered countless aspiring cybersecurity professionals** to achieve their goals faster and with confidence.
