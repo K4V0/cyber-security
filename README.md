@@ -62,7 +62,7 @@ Blue Team focuses on:
 
 ---
 
-# Red Team Roadmap (TryHackMe Path)
+# Red Team Roadmap (TryHackMe Path <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tryhackme.svg" alt="TryHackMe Logo" width="50"/> )
 
 This roadmap is based on the **TryHackMe learning path**, and it focuses **entirely on the Red Team / Offensive Security track**.
 
